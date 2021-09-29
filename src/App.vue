@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import Inicio from './components/Inicio.vue';
+import Inicio from './views/Inicio.vue';
 import AppTopBar from './components/shared/AppTopBar.vue';
 
 export default {
